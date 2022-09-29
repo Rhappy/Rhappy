@@ -77,7 +77,7 @@ How can we help each other? 😊
 	<a href="https://trello.com" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/icons8-trello-40.png?raw=true" alt="Trello"/>
   	</a>&nbsp;&nbsp;
-	<a href="https://raw.githubusercontent.com/Rhappy/Rhappy/main/mysql-40.png" target="blank">
+	<a href="https://github.com/Rhappy/Rhappy/blob/main/mysql-40.png?raw=true" target="blank">
 		<img align="center" src="https://www.mysql.com" alt="MySQL"/>
  	</a>
 </p>

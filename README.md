@@ -34,7 +34,7 @@ How can we help each other? 😊
 	</a>&nbsp;&nbsp;
   	<a href="https://discordapp.com/users/Rhappy#9373" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/icons8-logo-discord-25.png" alt="Rhappy | Discord"/>
-  </a>
+  	</a>
 </p>
 
 <hr>
@@ -51,31 +51,35 @@ How can we help each other? 😊
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/r/" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/2pngaaa.com-1525764.png?raw=true" alt="R"/>
-	</a>
+	</a>&nbsp;&nbsp;
+	<a href="https://www.w3schools.com/googlesheets/index.php" target="blank">
+		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/icons8-google-sheets-35.png?raw=true" alt="Google Sheets"/>
+ 	</a>
 </p>
 <br>
 <p align="center">
-	<a href="https://www.w3schools.com/googlesheets/index.php" target="blank">
-		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/icons8-google-sheets-35.png?raw=true" alt="Google Sheets"/>
-  </a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/excel/index.php" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/icons8-ms-excel-30.png?raw=true" alt="Microsoft Excel" />
 	</a>&nbsp;&nbsp;
 	<a href="https://cloud.google.com/bigquery" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/2222%20bigquery.png?raw=true" alt="BigQuery"/>
-	</a>
-</p>
-<br>
-<p align="center">
+	</a>&nbsp;&nbsp;
 	<a href="https://redash.io" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/2222%20redash.png?raw=true" alt="Redash"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://sso.online.tableau.com" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/icons8-tableau-software-40.png?raw=true" alt="Tableau"/>
-  </a>&nbsp;&nbsp;
+ 	</a>
+	
+</p>
+<br>
+<p align="center">
 	<a href="https://trello.com" target="blank">
 		<img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/icons8-trello-40.png?raw=true" alt="Trello"/>
-  </a>
+  	</a>&nbsp;&nbsp;
+	<a href="https://raw.githubusercontent.com/Rhappy/Rhappy/main/mysql-40.png" target="blank">
+		<img align="center" src="https://www.mysql.com" alt="MySQL"/>
+ 	</a>
 </p>
 
 <hr>

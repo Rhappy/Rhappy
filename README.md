@@ -45,10 +45,10 @@
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_python.png" alt="Python" width="45" height="45"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/r/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_r.png" alt="R" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_r.png" alt="R" width="45" height="45"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/html/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_html.png" alt="HTML" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_html.png" alt="HTML" width="45" height="45"/>
  	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/css/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_css.png" alt="CSS" width="45" height="45"/>
@@ -57,16 +57,16 @@
 <br>
 <p align="center">
 	<a href="https://www.w3schools.com/js/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_javascript.png" alt="JavaScript" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_javascript.png" alt="JavaScript" width="45" height="45"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/googlesheets/index.php" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_sheets.png" alt="Google Sheets" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_sheets.png" alt="Google Sheets" width="45" height="45"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/excel/index.php" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_excel.png" alt="Microsoft Excel" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_excel.png" alt="Microsoft Excel" width="45" height="45"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://cloud.google.com/bigquery" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_bigquery.png" alt="BigQuery" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_bigquery.png" alt="BigQuery" width="45" height="45"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://redash.io" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_redash.png" alt="Redash" width="40" height="45"/>
@@ -76,16 +76,16 @@
 <p align="center">
 	</a>
 	<a href="https://www.mysql.com" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_mysql.png" alt="MySQL" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_mysql.png" alt="MySQL" width="45" height="45"/>
  	</a>&nbsp;&nbsp;
 	<a href="https://sso.online.tableau.com" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_tableau.png" alt="Tableau" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_tableau.png" alt="Tableau" width="45" height="45"/>
  	</a>&nbsp;&nbsp;
 	<a href="https://trello.com" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_trello.png" alt="Trello" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_trello.png" alt="Trello" width="45" height="45"/>
   	</a>&nbsp;&nbsp;
 	<a href="https://www.notion.so" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_notion.png" alt="Notion" width="45" height="45/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_notion.png" alt="Notion" width="45" height="45"/>
  	</a>
 </p>
 <br>

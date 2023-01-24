@@ -88,6 +88,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_notion.png" alt="Notion" width="45" height="45/>
  	</a>
 </p>
+<br>
 
 <hr>
 

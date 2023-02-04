@@ -11,7 +11,7 @@
 🌱 Currently learning about Data Analysis and Machine Learning. <br>
 🤩 Expecting to grow and evolve in my knowledge. <br>
 👯 I’m looking to collaborate in projects and share my personal learning path. <br>
-⚡ Fun fact: Love cooking almost as much as eating.<br>
+⚡ Fun fact: love web 1.0 designs!<br>
 🌎 PT | EN - 👓🎧🎙️ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 🌍 ES | IT | DE | FR - 👓

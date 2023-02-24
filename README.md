@@ -69,7 +69,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_bigquery.png" alt="BigQuery" width="35" height="35"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://redash.io" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_redash.png" alt="Redash" width="40" height="35"/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_redash.png" alt="Redash" width="35" height="40"/>
 	</a>
 </p>
 <br>

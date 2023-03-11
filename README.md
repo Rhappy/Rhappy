@@ -54,7 +54,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_css.png" alt="CSS" width="35" height="35"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/js/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_javascript.png" alt="JavaScript" width="35" height="35"/>
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_javascript.png" alt="JavaScript" width="30" height="30"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/googlesheets/index.php" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_sheets.png" alt="Google Sheets" width="35" height="35"/>

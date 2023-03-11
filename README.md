@@ -52,10 +52,7 @@
  	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/css/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_css.png" alt="CSS" width="35" height="35"/>
-	</a>
-</p>
-<br>
-<p align="center">
+	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/js/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_javascript.png" alt="JavaScript" width="35" height="35"/>
 	</a>&nbsp;&nbsp;
@@ -64,19 +61,22 @@
 	</a>&nbsp;&nbsp;
 	<a href="https://www.w3schools.com/excel/index.php" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_excel.png" alt="Microsoft Excel" width="35" height="35"/>
-	</a>&nbsp;&nbsp;
+	</a>
+	
+</p>
+<br>
+<p align="center">
 	<a href="https://cloud.google.com/bigquery" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_bigquery.png" alt="BigQuery" width="35" height="35"/>
 	</a>&nbsp;&nbsp;
 	<a href="https://redash.io" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_redash.png" alt="Redash" width="35" height="40"/>
-	</a>
-</p>
-<br>
-<p align="center">
-	</a>
+	</a>&nbsp;&nbsp;
 	<a href="https://www.mysql.com" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_mysql.png" alt="MySQL" width="35" height="35"/>
+ 	</a>&nbsp;&nbsp;
+	<a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_powerbi.png" alt="Power BI" width="35" height="40"/>
  	</a>&nbsp;&nbsp;
 	<a href="https://sso.online.tableau.com" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_tableau.png" alt="Tableau" width="35" height="35"/>

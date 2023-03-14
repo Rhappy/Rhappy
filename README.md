@@ -17,6 +17,10 @@
 🌍 ES | IT | DE | FR - 👓
 </p>
 
+<!--- 
+target _blank doesn't work now but i'll keep it here so that, on the day they decide to change this, it'll be ready
+--->
+
 <hr>
   <!-- Contact me -->
 <h3 align="center"> 📫 Contact me! </h3>

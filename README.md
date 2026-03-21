@@ -8,7 +8,8 @@
 <hr>
 <!-- readme.md -->
 <p align="center">
-🌱 Currently learning about Data Analysis and Machine Learning. <br>
+🌱 Currently working in Data Analysis / Business Intelligence. <br>
+🪐 Exploring Data Engineering / Data Architecture. <br>
 🤩 Expecting to grow and evolve in my knowledge. <br>
 👯 I’m looking to collaborate in projects and share my personal learning path. <br>
 ⚡ Fun fact: love web 1.0 designs!<br>
@@ -99,7 +100,7 @@ target _blank doesn't work now but i'll keep it here so that, on the day they de
 
 <hr>
 
-<!-- GitHub stats -->
+<!-- GitHub stats
 <details>
 <summary> 📚 Github Stats</summary>
 
@@ -111,4 +112,4 @@ target _blank doesn't work now but i'll keep it here so that, on the day they de
 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhappy&show_icons=true&theme=darcula&title_color=CC5500&text_color=CC5500&icon_color=0077CC&hide_border=TRUE"/>
 </p>
 </details>
-<hr> 
+<hr> -->

@@ -8,8 +8,8 @@
 <hr>
 <!-- readme.md -->
 <p align="center">
-🌱 Currently working in Data Analysis / Business Intelligence. <br>
-🪐 Exploring Data Engineering / Data Architecture. <br>
+🌱 Currently working in Data Engineering / Data Architecture. <br>
+🪐 Exploring App Development. <br>
 🤩 Expecting to grow and evolve in my knowledge. <br>
 👯 I'm looking to collaborate in projects and share my personal learning path. <br>
 ⚡ Fun fact: love web 1.0 designs!<br>

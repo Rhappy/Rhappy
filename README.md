@@ -37,46 +37,46 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/apacheairflow/F26A21" width="40" height="40" alt="Airflow" title="Airflow"/></td>
+    <td align="center" width="64"><img src="images/apacheairflow.svg" width="40" height="40" alt="Airflow" title="Airflow"/></td>
     <td align="center" width="64"><img src="images/aws.svg" width="40" height="40" alt="AWS" title="AWS"/></td>
     <td align="center" width="64"><img src="images/awsglue.svg" width="40" height="40" alt="AWS Glue" title="AWS Glue"/></td>
     <td align="center" width="64"><img src="images/chatgpt.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/claude/F26A21" width="40" height="40" alt="Claude" title="Claude"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/clickhouse/F26A21" width="40" height="40" alt="ClickHouse" title="ClickHouse"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/clickup/F26A21" width="40" height="40" alt="ClickUp" title="ClickUp"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/googlecloudcomposer/F26A21" width="40" height="40" alt="Cloud Composer" title="Cloud Composer"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/css/F26A21" width="40" height="40" alt="CSS" title="CSS"/></td>
+    <td align="center" width="64"><img src="images/claude.svg" width="40" height="40" alt="Claude" title="Claude"/></td>
+    <td align="center" width="64"><img src="images/clickhouse.svg" width="40" height="40" alt="ClickHouse" title="ClickHouse"/></td>
+    <td align="center" width="64"><img src="images/clickup.svg" width="40" height="40" alt="ClickUp" title="ClickUp"/></td>
+    <td align="center" width="64"><img src="images/googlecloudcomposer.svg" width="40" height="40" alt="Cloud Composer" title="Cloud Composer"/></td>
+    <td align="center" width="64"><img src="images/css.svg" width="40" height="40" alt="CSS" title="CSS"/></td>
   </tr>
   <tr>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/datadog/F26A21" width="40" height="40" alt="Datadog" title="Datadog"/></td>
+    <td align="center" width="64"><img src="images/datadog.svg" width="40" height="40" alt="Datadog" title="Datadog"/></td>
     <td align="center" width="64"><img src="images/dataform.svg" width="40" height="40" alt="Dataform" title="Dataform"/></td>
     <td align="center" width="64"><img src="images/fasttrack.svg" width="40" height="40" alt="Fasttrack" title="Fasttrack"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/googlecloud/F26A21" width="40" height="40" alt="GCP" title="GCP"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/github/F26A21" width="40" height="40" alt="GitHub" title="GitHub"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/githubactions/F26A21" width="40" height="40" alt="GitHub Actions" title="GitHub Actions"/></td>
+    <td align="center" width="64"><img src="images/googlecloud.svg" width="40" height="40" alt="GCP" title="GCP"/></td>
+    <td align="center" width="64"><img src="images/github.svg" width="40" height="40" alt="GitHub" title="GitHub"/></td>
+    <td align="center" width="64"><img src="images/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions"/></td>
     <td align="center" width="64"><img src="images/hex.svg" width="40" height="40" alt="HEX" title="HEX"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/html5/F26A21" width="40" height="40" alt="HTML" title="HTML"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/javascript/F26A21" width="40" height="40" alt="JavaScript" title="JavaScript"/></td>
+    <td align="center" width="64"><img src="images/html5.svg" width="40" height="40" alt="HTML" title="HTML"/></td>
+    <td align="center" width="64"><img src="images/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/></td>
   </tr>
   <tr>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/jira/F26A21" width="40" height="40" alt="Jira" title="Jira"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/metabase/F26A21" width="40" height="40" alt="Metabase" title="Metabase"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/mysql/F26A21" width="40" height="40" alt="MySQL" title="MySQL"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/notion/F26A21" width="40" height="40" alt="Notion" title="Notion"/></td>
+    <td align="center" width="64"><img src="images/jira.svg" width="40" height="40" alt="Jira" title="Jira"/></td>
+    <td align="center" width="64"><img src="images/metabase.svg" width="40" height="40" alt="Metabase" title="Metabase"/></td>
+    <td align="center" width="64"><img src="images/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL"/></td>
+    <td align="center" width="64"><img src="images/notion.svg" width="40" height="40" alt="Notion" title="Notion"/></td>
     <td align="center" width="64"><img src="images/omni.svg" width="40" height="40" alt="Omni" title="Omni"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/postgresql/F26A21" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></td>
+    <td align="center" width="64"><img src="images/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></td>
     <td align="center" width="64"><img src="images/powerbi.svg" width="40" height="40" alt="Power BI" title="Power BI"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/presto/F26A21" width="40" height="40" alt="PrestoSQL" title="PrestoSQL"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/python/F26A21" width="40" height="40" alt="Python" title="Python"/></td>
+    <td align="center" width="64"><img src="images/presto.svg" width="40" height="40" alt="PrestoSQL" title="PrestoSQL"/></td>
+    <td align="center" width="64"><img src="images/python.svg" width="40" height="40" alt="Python" title="Python"/></td>
   </tr>
   <tr>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/redash/F26A21" width="40" height="40" alt="Redash" title="Redash"/></td>
+    <td align="center" width="64"><img src="images/redash.svg" width="40" height="40" alt="Redash" title="Redash"/></td>
     <td align="center" width="64"><img src="images/salesforce.svg" width="40" height="40" alt="Salesforce" title="Salesforce"/></td>
     <td align="center" width="64"><img src="images/secoda.svg" width="40" height="40" alt="Secoda" title="Secoda"/></td>
     <td align="center" width="64"><img src="images/slack.svg" width="40" height="40" alt="Slack" title="Slack"/></td>
     <td align="center" width="64"><img src="images/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/trello/F26A21" width="40" height="40" alt="Trello" title="Trello"/></td>
-    <td align="center" width="64"><img src="https://cdn.simpleicons.org/zapier/F26A21" width="40" height="40" alt="Zapier" title="Zapier"/></td>
+    <td align="center" width="64"><img src="images/trello.svg" width="40" height="40" alt="Trello" title="Trello"/></td>
+    <td align="center" width="64"><img src="images/zapier.svg" width="40" height="40" alt="Zapier" title="Zapier"/></td>
     <td width="64"></td>
     <td width="64"></td>
   </tr>

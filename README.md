@@ -21,41 +21,66 @@
 <hr>
 <!-- Contact me -->
 <h3 align="center"> 📫 Contact me! </h3>
-<br>
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<div align="center">
+<table>
   <tr>
-    <td style="border: none; background: transparent;"><a href="https://www.linkedin.com/in/rhapha-morello" target="_blank"><img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/images/contact_linkedin.png?raw=true" alt="Rhappy | Linkedin" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.kaggle.com/rhappy" target="_blank"><img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/images/contact_kaggle.png" alt="Rhappy | Kaggle" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://discordapp.com/users/Rhappy#9373" target="_blank"><img align="center" src="https://github.com/Rhappy/Rhappy/blob/main/images/contact_discord.png?raw=true" alt="Rhappy | Discord" width="35" height="35"/></a></td>
+    <td align="center" width="64"><a href="https://www.linkedin.com/in/rhapha-morello"><img src="assets/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/></a></td>
+    <td align="center" width="64"><a href="https://www.kaggle.com/rhappy"><img src="https://cdn.simpleicons.org/kaggle/F26A21" width="40" height="40" alt="Kaggle" title="Kaggle"/></a></td>
+    <td align="center" width="64"><a href="https://discordapp.com/users/Rhappy#9373"><img src="https://cdn.simpleicons.org/discord/F26A21" width="40" height="40" alt="Discord" title="Discord"/></a></td>
   </tr>
 </table>
+</div>
 
 <hr>
 <!-- Languages and Tools -->
-<h3 align="center"> 🌌 Languages and Tools I'm interested into: </h3>
-<br>
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<h3 align="center"> 🌌 Stack: </h3>
+<div align="center">
+<table>
   <tr>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_sql.png" alt="SQL" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/python/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_python.png" alt="Python" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/r/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_r.png" alt="R" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_html.png" alt="HTML" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_css.png" alt="CSS" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/language_javascript.png" alt="JavaScript" width="30" height="30"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/googlesheets/index.php" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_sheets.png" alt="Google Sheets" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.w3schools.com/excel/index.php" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_excel.png" alt="Microsoft Excel" width="35" height="35"/></a></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/apacheairflow/F26A21" width="40" height="40" alt="Airflow" title="Airflow"/></td>
+    <td align="center" width="64"><img src="assets/aws.svg" width="40" height="40" alt="AWS" title="AWS"/></td>
+    <td align="center" width="64"><img src="assets/awsglue.svg" width="40" height="40" alt="AWS Glue" title="AWS Glue"/></td>
+    <td align="center" width="64"><img src="assets/chatgpt.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/claude/F26A21" width="40" height="40" alt="Claude" title="Claude"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/clickhouse/F26A21" width="40" height="40" alt="ClickHouse" title="ClickHouse"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/clickup/F26A21" width="40" height="40" alt="ClickUp" title="ClickUp"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/googlecloudcomposer/F26A21" width="40" height="40" alt="Cloud Composer" title="Cloud Composer"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/css/F26A21" width="40" height="40" alt="CSS" title="CSS"/></td>
   </tr>
   <tr>
-    <td style="border: none; background: transparent;"><a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_bigquery.png" alt="BigQuery" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://redash.io" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_redash.png" alt="Redash" width="35" height="40"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_mysql.png" alt="MySQL" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_powerbi.png" alt="Power BI" width="35" height="40"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://sso.online.tableau.com" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_tableau.png" alt="Tableau" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://jupyter.org/try" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_jupyter.png" alt="Jupyter" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://trello.com" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_trello.png" alt="Trello" width="35" height="35"/></a></td>
-    <td style="border: none; background: transparent;"><a href="https://www.notion.so" target="_blank"><img src="https://raw.githubusercontent.com/Rhappy/Rhappy/main/images/tool_notion.png" alt="Notion" width="35" height="35"/></a></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/datadog/F26A21" width="40" height="40" alt="Datadog" title="Datadog"/></td>
+    <td align="center" width="64"><img src="assets/dataform.svg" width="40" height="40" alt="Dataform" title="Dataform"/></td>
+    <td align="center" width="64"><img src="assets/fasttrack.svg" width="40" height="40" alt="Fasttrack" title="Fasttrack"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/googlecloud/F26A21" width="40" height="40" alt="GCP" title="GCP"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/github/F26A21" width="40" height="40" alt="GitHub" title="GitHub"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/githubactions/F26A21" width="40" height="40" alt="GitHub Actions" title="GitHub Actions"/></td>
+    <td align="center" width="64"><img src="assets/hex.svg" width="40" height="40" alt="HEX" title="HEX"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/html5/F26A21" width="40" height="40" alt="HTML" title="HTML"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/javascript/F26A21" width="40" height="40" alt="JavaScript" title="JavaScript"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/jira/F26A21" width="40" height="40" alt="Jira" title="Jira"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/metabase/F26A21" width="40" height="40" alt="Metabase" title="Metabase"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/mysql/F26A21" width="40" height="40" alt="MySQL" title="MySQL"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/notion/F26A21" width="40" height="40" alt="Notion" title="Notion"/></td>
+    <td align="center" width="64"><img src="assets/omni.svg" width="40" height="40" alt="Omni" title="Omni"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/postgresql/F26A21" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></td>
+    <td align="center" width="64"><img src="assets/powerbi.svg" width="40" height="40" alt="Power BI" title="Power BI"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/presto/F26A21" width="40" height="40" alt="PrestoSQL" title="PrestoSQL"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/python/F26A21" width="40" height="40" alt="Python" title="Python"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/redash/F26A21" width="40" height="40" alt="Redash" title="Redash"/></td>
+    <td align="center" width="64"><img src="assets/salesforce.svg" width="40" height="40" alt="Salesforce" title="Salesforce"/></td>
+    <td align="center" width="64"><img src="assets/secoda.svg" width="40" height="40" alt="Secoda" title="Secoda"/></td>
+    <td align="center" width="64"><img src="assets/slack.svg" width="40" height="40" alt="Slack" title="Slack"/></td>
+    <td align="center" width="64"><img src="assets/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/trello/F26A21" width="40" height="40" alt="Trello" title="Trello"/></td>
+    <td align="center" width="64"><img src="https://cdn.simpleicons.org/zapier/F26A21" width="40" height="40" alt="Zapier" title="Zapier"/></td>
+    <td width="64"></td>
+    <td width="64"></td>
   </tr>
 </table>
-<br>
+</div>
 
 <hr>
